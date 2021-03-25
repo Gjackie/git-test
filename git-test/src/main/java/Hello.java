@@ -7,5 +7,6 @@ public class Hello {
         System.out.println(555);
         System.out.println(555);
         System.out.println(666);
+        System.out.println("b2b2b");
     }
 }
